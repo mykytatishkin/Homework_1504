@@ -1,0 +1,17 @@
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\bin\Debug\net6.0-windows\DanceProgressBar.exe
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\bin\Debug\net6.0-windows\DanceProgressBar.deps.json
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\bin\Debug\net6.0-windows\DanceProgressBar.runtimeconfig.json
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\bin\Debug\net6.0-windows\DanceProgressBar.dll
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\bin\Debug\net6.0-windows\DanceProgressBar.pdb
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.Form1.resources
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.csproj.GenerateResource.cache
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.dll
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\refint\DanceProgressBar.dll
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.pdb
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\DanceProgressBar.genruntimeconfig.cache
+C:\Users\Mykyta\source\repos\DanceProgressBar\DanceProgressBar\obj\Debug\net6.0-windows\ref\DanceProgressBar.dll
